@@ -1,2 +1,2 @@
 function mostra(nome){
-alert(nome)}
+alert(nome);}
